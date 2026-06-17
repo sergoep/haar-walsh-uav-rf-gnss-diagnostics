@@ -35,5 +35,26 @@ This repository is limited to offline defensive detector auditing and synthetic 
 
 ## Citation
 
-If you use this code, please cite the paper and the archived Zenodo DOI once available.
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Calibrated Haar-Walsh Structural Diagnostics for Energy-Preserving Anomalies"
+type: software
+authors:
+  - family-names: Episkoposian
+    given-names: Sergo A.
+    email: sepiskoposian@gmail.com
+    affiliation: National Polytechnic University of Armenia
+version: 1.0.0
+date-released: 2026-06-16
+repository-code: "https://github.com/YOUR-USERNAME/haar-walsh-uav-rf-gnss-diagnostics"
+url: "https://github.com/YOUR-USERNAME/haar-walsh-uav-rf-gnss-diagnostics"
+doi: "10.5281/zenodo.XXXXXXX"
+license: MIT
+keywords:
+  - Haar transform
+  - Walsh-Hadamard transform
+  - UAV RF monitoring
+  - GNSS anomaly detection
+  - conformal calibration
+  - structural diagnostics
 
