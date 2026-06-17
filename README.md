@@ -55,3 +55,5 @@ https://doi.org/10.5281/zenodo.20733155
 ## License
 
 This project is released under the MIT License.
+
+Fix README formatting
