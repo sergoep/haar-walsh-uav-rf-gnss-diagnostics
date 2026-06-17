@@ -23,3 +23,30 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+Run the main synthetic benchmark:
+
+python run_synthetic_haar_walsh.py
+
+Generate or reproduce the figures:
+
+python make_synthetic_figures.py
+
+The scripts use the fixed random seed 20260616 and reproduce the synthetic CSV tables and figures used in the manuscript.
+
+Scope and safe use
+
+This repository is limited to offline defensive detector auditing and synthetic benchmark generation. It does not provide RF emission parameters, jamming procedures, spoofing procedures, UAV control-channel manipulation, or real-time disruption methods.
+
+Citation
+
+If you use this code, please cite the archived Zenodo release:
+
+Sergo A. Episkoposian.
+Calibrated Haar-Walsh Structural Diagnostics for Energy-Preserving Anomalies.
+Version 1.0.0. Zenodo.
+https://doi.org/10.5281/zenodo.20733155
+
+License
+
+This project is released under the MIT License.
