@@ -43,17 +43,15 @@ The scripts use the fixed random seed `20260616` and reproduce the synthetic CSV
 
 This repository is limited to offline defensive detector auditing and synthetic benchmark generation. It does not provide RF emission parameters, jamming procedures, spoofing procedures, UAV control-channel manipulation, or real-time disruption methods.
 
-## Citation
+Citation
 
 If you use this code, please cite the archived Zenodo release:
 
 Sergo A. Episkoposian.
-**Calibrated Haar-Walsh Structural Diagnostics for Energy-Preserving Anomalies.**
+Calibrated Haar-Walsh Structural Diagnostics for Energy-Preserving Anomalies.
 Version 1.0.0. Zenodo.
 https://doi.org/10.5281/zenodo.20733155
 
-## License
+License
 
 This project is released under the MIT License.
-
-Fix README formatting
